@@ -1,0 +1,15 @@
+.wrapper {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+  .wrapper h1 {
+    font-size: 4em;
+    text-align: center; }
+  .wrapper .content {
+    width: 100%; }
+    .wrapper .content img {
+      display: block;
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto; }
